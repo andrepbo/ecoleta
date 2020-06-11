@@ -30,11 +30,11 @@ During this period, participants are guided by the competent Rockeseat team thro
 where it is possible to learn new tools, technologies and discover hacks.
 
 ### Event duration
-- Dia 1 (01/06): Acelerando sua evolução
-- Dia 2 (02/06): Olhando para as oportunidades
-- Dia 3 (03/06): A escolha da Stack
-- Dia 4 (04/06): Até 2 anos em 2 meses
-- Dia 5 (05/06): Milha extra
+- Day 1 (01/06): Accelerating your evolution
+- Day 2 (02/06): Looking for opportunities
+- Day 3 (03/06): Stack's choice
+- Day 4 (04/06): Up to 2 years in 2 months
+- Day 5 (05/06): Extra mile
 
 ## Project
 Ecoleta is a project developed based on the International Environment Week. 
@@ -49,5 +49,5 @@ to carry out the conscious disposal of products such as lamps, batteries, cookin
 
 ## License
 
-This project is under the MIT license. See the license file for details.
+This project is under the MIT license. See the [license](https://github.com/andrepbo/rocketseat-ecoleta/blob/master/LICENSE) file for details.
 
