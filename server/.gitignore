@@ -3,3 +3,6 @@ uploads/*
 !uploads/.gitkeep
 
 *.sqlite
+
+# macOS
+.DS_Store
