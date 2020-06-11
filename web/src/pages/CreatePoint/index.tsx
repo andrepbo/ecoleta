@@ -132,7 +132,7 @@ const CreatePoint = () => {
             data.append('latitude', String(latitude));
             data.append('longitude', String(longitude));
             data.append('items', items.join(','));
-        
+
             if(selectedFile) {
                 data.append('image', selectedFile)
             }
@@ -156,17 +156,17 @@ const CreatePoint = () => {
             </header>
 
             <form onSubmit={handleSubmit}>
-                <h1>Cadastro do <br /> ponto de coleta</h1>
+                <h1>Cadastro do ponto de coleta</h1>
 
                 <Dropzone onFileIploaded={setSelectedFile} />
 
                 <fieldset>
                     <legend>
-                        <h2>Dados</h2>
+                        <h2>Informações do estabelecimento:</h2>
                     </legend>
 
                     <div className="field">
-                        <label htmlFor="name">Nome da entidade</label>
+                        <label htmlFor="name">Nome</label>
                         <input type="text" name="name" id="name" onChange={handleInputChange}/>
                     </div>
 
@@ -184,7 +184,7 @@ const CreatePoint = () => {
 
                 <fieldset>
                     <legend>
-                        <h2>Endereços</h2>
+                        <h2>Endereço do estabelecimento</h2>
                         <span>Selecione o endereço no mapa</span>
                     </legend>
 
