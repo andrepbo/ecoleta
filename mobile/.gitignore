@@ -9,6 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+.editorconfig
+commitlint.config.js
 
 # macOS
 .DS_Store
