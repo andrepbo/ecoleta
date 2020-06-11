@@ -13,13 +13,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#what-is-next-level-week">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies-used-in-this-project">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 <br />
 
@@ -30,11 +27,11 @@ During this period, participants are guided by the competent Rockeseat team thro
 where it is possible to learn new tools, technologies and discover hacks.
 
 ### Event duration
-- Day 1 (01/06): Accelerating your evolution
-- Day 2 (02/06): Looking for opportunities
-- Day 3 (03/06): Stack's choice
-- Day 4 (04/06): Up to 2 years in 2 months
-- Day 5 (05/06): Extra mile
+- [x] Day 1 (01/06): Accelerating your evolution
+- [x] Day 2 (02/06): Looking for opportunities
+- [x] Day 3 (03/06): Stack's choice
+- [x] Day 4 (04/06): Up to 2 years in 2 months
+- [x] Day 5 (05/06): Extra mile
 
 ## Project
 Ecoleta is a project developed based on the International Environment Week. 
