@@ -27,12 +27,12 @@ const Dropzone: React.FC<Props> = ({ onFileIploaded }) => {
   return (
     <div className="dropzone" {...getRootProps()}>
       <input {...getInputProps()} accept="image/*" />
-      { selectedFileUrl 
+      { selectedFileUrl
         ? <img src={selectedFileUrl} alt='Point thumbnail' />
         : (
           <p>
             <FiUpload />
-            Im agem do estabelecimento
+            Imagem do estabelecimento
           </p>)
       }
     </div>
