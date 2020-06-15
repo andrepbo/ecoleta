@@ -44,6 +44,75 @@ to carry out the conscious disposal of products such as lamps, batteries, cookin
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+## How to use
+Clone and run the application from the command line. You'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) installed on your computer.
+
+From the command line:
+
+### Install API 
+
+```bash
+# Clone the repository
+$ git clone https://github.com/andrepbo/nlw-ecoleta
+
+# Go into the repository
+$ cd nlw-ecoleta/server
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn knex:migrate
+
+# Run Seeds
+$ yarn knex:seed
+
+# Start server
+$ yarn dev
+
+# running on port 3333
+```
+
+### Install Web
+
+```bash
+# Clone this repository
+$ git clone https://github.com/andrepbo/nlw-ecoleta
+
+# Go into the repository
+$ cd nlw-ecoleta/web
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/andrepbo/nlw-ecoleta
+
+# Go into the repository
+$ cd nlw-ecoleta/mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+
 ## License
 
 This project is under the MIT license. See the [license](https://github.com/andrepbo/rocketseat-ecoleta/blob/master/LICENSE) file for details.
