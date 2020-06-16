@@ -1,5 +1,5 @@
 ![git-capa](https://user-images.githubusercontent.com/8798970/84420700-cdb65200-abf0-11ea-9689-18e6829c3bdb.png)
-=====
+
 <h4 align="center"> 
 	NextLevelWeek 1.0 completed!
 </h4>
