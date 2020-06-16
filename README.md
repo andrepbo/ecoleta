@@ -11,6 +11,7 @@
   <a href="https://github.com/andrepbo/rocketseat-ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrepbo/rocketseat-ecoleta">
   </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 <p align="center">
   <a href="#what-is-next-level-week">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
