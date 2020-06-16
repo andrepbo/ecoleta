@@ -4,6 +4,7 @@ import { FiArrowLeft } from 'react-icons/fi';
 import { Map, TileLayer, Marker } from 'react-leaflet';
 import axios from 'axios';
 import { LeafletMouseEvent } from 'leaflet';
+import swal from 'sweetalert';
 import api from '../../services/api';
 import Dropzone from '../../components/Dropzone';
 
@@ -139,9 +140,9 @@ const CreatePoint = () => {
 
         await api.post('points', data);
 
-        alert('Ponto de coleta criado!');
+        history.push('/list-points');
 
-        history.push('/');
+        swal('Obrigado!', 'Ponto de coleta cadastrado', 'success');
     }
 
     return (
@@ -149,10 +150,20 @@ const CreatePoint = () => {
             <header>
                 <img src={logo} alt="Ecoleta" />
 
+                <div>
+
+                </div>
+
+                <div className='menu'>
                 <Link to="/">
-                    <FiArrowLeft />
-                    Voltar para home
-                </Link>
+                      <FiArrowLeft />
+                      Voltar para home
+                  </Link>
+                  &nbsp;&nbsp;|&nbsp;&nbsp;
+                  <Link to="/list-points">
+                      Lista de pontos de coleta
+                  </Link>
+                </div>
             </header>
 
             <form onSubmit={handleSubmit}>
