@@ -55,10 +55,10 @@ From the command line:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/andrepbo/nlw-ecoleta
+$ git clone https://github.com/andrepbo/ecoleta
 
 # Go into the repository
-$ cd nlw-ecoleta/server
+$ cd ecoleta/server
 
 # Install dependencies
 $ yarn install
@@ -79,10 +79,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/andrepbo/nlw-ecoleta
+$ git clone https://github.com/andrepbo/ecoleta
 
 # Go into the repository
-$ cd nlw-ecoleta/web
+$ cd ecoleta/web
 
 # Install dependencies
 $ yarn install
@@ -97,10 +97,10 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/andrepbo/nlw-ecoleta
+$ git clone https://github.com/andrepbo/ecoleta
 
 # Go into the repository
-$ cd nlw-ecoleta/mobile
+$ cd ecoleta/mobile
 
 # Install dependencies
 $ yarn install
@@ -117,5 +117,5 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 ## License
 
-This project is under the MIT license. See the [license](https://github.com/andrepbo/rocketseat-ecoleta/blob/master/LICENSE) file for details.
+This project is under the MIT license. See the [license](https://github.com/andrepbo/ecoleta/blob/master/LICENSE) file for details.
 
