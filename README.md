@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/andrephillipe/">
     <img alt="Made by Andre Oliveira" src="https://img.shields.io/badge/made%20by-Andre%20Oliveira-brightgreen">
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andrepbo/rocketseat-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andrepbo/ecoleta">
   <a href="https://github.com/andrepbo/rocketseat-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrepbo/rocketseat-ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andrepbo/ecoleta">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
